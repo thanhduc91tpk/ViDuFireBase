@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "466706843890",
+    "firebase_url": "https://vidufirebase-536c6.firebaseio.com",
+    "project_id": "vidufirebase-536c6",
+    "storage_bucket": "vidufirebase-536c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466706843890:android:e78a792bf3e190f3dfe86b",
+        "android_client_info": {
+          "package_name": "com.zendo.vidufirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466706843890-djb4da2keiqq9euh5oaa71rmnnes5f1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zendo.vidufirebase",
+            "certificate_hash": "cef16ed8b8b019fa887116492d15cd32afbc8856"
+          }
+        },
+        {
+          "client_id": "466706843890-17gc7o2osp8fqt96bd9078egf41p6jmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNAo4UxR6PtkeGwYGZfHZGfg_fySYsUW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466706843890-17gc7o2osp8fqt96bd9078egf41p6jmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
